@@ -1,5 +1,10 @@
+import Button from "./components/button/Button";
+
+
 const App = () => {
-	return <h1>Núcleo de la aplicación</h1>;
+	return (
+		<Button/>
+	)
 };
 
 export default App;
